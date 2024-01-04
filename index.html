@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This page illustrates a simple dynamic stopwatch designed using simple HTML,CSS and Vanilla Javascript">
+    <meta name="author" content="Hosea Nganga">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+    <script src="script.js" defer></script>
+    <title>QUIZ APP</title>
+</head>
+<body class="body">
+    <div class="card">
+        <h2 class="header" id="questionEl">Question</h2>
+        <form class="validateForm">
+            <div class="box1">
+                <input type="radio" name="answers" class="answer" id="a">
+                <label for="a" id="answera">a</label>
+            </div>
+            <div class="box2">
+                <input type="radio" class="answer" name="answers" id="b">
+                <label for="b" id="answerb">b</label>
+            </div>
+            <div class="box3">
+                <input type="radio" name="answers" class="answer" id="c">
+                <label for="c" id="answerc">c</label>
+            </div>
+            <div class="box4">
+                <input type="radio" name="answers" class="answer" id="d">
+                <label for="d" id="answerd">d</label>
+            </div>
+        </form>
+        <button class="submit" id="submitButton">Submit</button>
+    </div>
+</body>
+</html>
