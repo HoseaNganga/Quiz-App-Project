@@ -14,12 +14,15 @@ This project demonstrates a simple dynamic quiz app designed using HTML, CSS, an
 ## Screenshots
 
 1.Screenshot1
+
 <img src="screenshots/screenshot1.PNG" width="350px">
 
 2.Screenshot2
+
 <img src="screenshots/screenshot2.PNG" width="350px">
 
 3.Screenshot3
+
 <img src="screenshots/screenshot3.PNG" width="350px">
 
 
