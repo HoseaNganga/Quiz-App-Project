@@ -2,6 +2,27 @@
 
 This project demonstrates a simple dynamic quiz app designed using HTML, CSS, and Vanilla JavaScript. It presents a set of questions with multiple-choice answers and evaluates the user's responses.
 
+## Table of Contents
+- [Screenshots](#screenshots)
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Quiz Questions](#quiz-questions)
+- [Development](#development)
+- [Results and Failed Questions](#results-and-failed-questions)
+- [Author](#author)
+
+## Screenshots
+
+1.Screenshot1
+<img src="screenshots/screenshot1.PNG" width="350px">
+
+2.Screenshot2
+<img src="screenshots/screenshot2.PNG" width="350px">
+
+3.Screenshot3
+<img src="screenshots/screenshot3.PNG" width="350px">
+
+
 ## Features
 
 - **Interactive Questions:** The app displays questions with multiple-choice answers.
